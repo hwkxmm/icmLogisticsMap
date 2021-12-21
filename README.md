@@ -1,5 +1,7 @@
 # icm-logistics-map
 
+vue 百度地图物流测试项目
+
 ## Project setup
 ```
 npm install

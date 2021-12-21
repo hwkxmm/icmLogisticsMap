@@ -1,6 +1,6 @@
 
 module.exports = {
-    publicPath: process.env.NODE_ENV === 'production' ? '/icmLogisticsMap/' : '/', // TODO: Remember to change this to fit your need
+    publicPath: process.env.NODE_ENV === 'production' ? '/' : '/', // TODO: Remember to change this to fit your need
     lintOnSave: false,
     devServer: {
         proxy: {
